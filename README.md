@@ -1,1 +1,1 @@
-# Online-job-portal
+The Online Job Portal Management System is a web-based platform that connects job seekers with employers. It allows job seekers to create profiles, upload resumes, and apply for job postings, while employers can post job vacancies, review applications, schedule interviews, and communicate with applicants. The system also includes resume summarization using deep learning and a chat feature for better interaction.
